@@ -14,7 +14,7 @@ Learn everything you love to learn — it’s a great way to identify your exper
 > 📫 DM on Twitter to reach me.
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: inline-block;">
+<div style="display: inline;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
