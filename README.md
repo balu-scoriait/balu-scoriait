@@ -13,6 +13,25 @@ Learn everything you love to learn — it’s a great way to identify your exper
 > 💞️ I’m looking to collaborate on Web Development Concepts<br>
 > 📫 DM on Twitter to reach me.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
+  
+   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="JavaScript">&nbsp;&nbsp;&nbsp;
+  
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png' height='40' width='auto' alt="TypeScript">&nbsp;&nbsp;&nbsp;
+  
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+   </a> 
+</p>
+
 <!---
 balu-scoriait/balu-scoriait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
