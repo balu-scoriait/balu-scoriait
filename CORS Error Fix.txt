@@ -1,0 +1,15 @@
+1. Access to XMLHttpRequest at 'http://localhost:65214' from origin 'http://localhost:44440' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+2. Access to XMLHttpRequest at 'http://localhost:65214/cart' from origin 'http://localhost:44440' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+
+Solution :
+Add the below code in each program.cs file in place of "var app = builder.Build();"
+
+
+************************************************************************************************************************************
+
+builder.Services.AddCors(c => { c.AddPolicy("AllowOrigin", Options => Options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()); }); // CORS Policy Added
+var app = builder.Build();
+app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()); // CORS Policy Enabled
+
+************************************************************************************************************************************
